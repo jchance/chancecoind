@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: ChanceCo Industries
+author: jchance
+description: Documentation for ChanceCo Industries builds on c.nerd.nu
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://chanceco.industries
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Nerd.nu: https:nerd.nu
