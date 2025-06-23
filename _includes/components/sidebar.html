@@ -24,11 +24,5 @@ Should not be cached, because nav_footer_custom.html might depend on page.
   {% capture nav_footer_custom %}
   {%- include nav_footer_custom.html -%}
   {% endcapture %}
-  {% if nav_footer_custom != "" %}
-  {{ nav_footer_custom }}
-  {% else %}
-  <footer class="site-footer">
-    Copyright &copy; {{ site.time | date: '%Y' }} <a href="{{ site.url | relative_url }}">jchance</a>.
-  </footer>
-  {% endif %}
+
 </div>
