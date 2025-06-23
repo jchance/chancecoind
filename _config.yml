@@ -6,6 +6,9 @@ description: Documentation for ChanceCo Industries builds on c.nerd.nu
 theme: just-the-docs
 url: https://chanceco.industries
 
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: "/assets/favicon.ico"
+
 aux_links:
   Nerd.nu: https://nerd.nu
   Live Map: https://nerd.nu/maps/creative/live
@@ -14,7 +17,7 @@ permalink: pretty
 
 defaults:
   - scope:
-      path: "docs" # an empty string here means all files in the project
+      path: "builds" # an empty string here means all files in the project
       type: "pages"
     values:
       layout: "default"
