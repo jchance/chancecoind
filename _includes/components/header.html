@@ -1,11 +1,14 @@
 <div id="main-header" class="main-header">
   {% if site.search_enabled != false %}
-    {% include components/search_header.html %}
+  {% include components/search_header.html %}
   {% else %}
-    <div></div>
+  <div></div>
   {% endif %}
   {% include header_custom.html %}
   {% if site.aux_links %}
-    {% include components/aux_nav.html %}
+  {% include components/aux_nav.html %}
   {% endif %}
+
+  <a href="https://nerd.nu"><img src="/assets/nerdnu-logo.png" alt="Visit nerd.nu"
+      style="max-height: 40px; margin: 10px 15px 0 0;" /></a>
 </div>

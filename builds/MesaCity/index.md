@@ -14,4 +14,4 @@ Red Sandstone themed, Mesa City is the official "ChanceCo Company Town" with all
 
 ## Region Map
 
-![](/assets/mesa-city-map.png)
+[![Badlands region west of Spawn](/assets/mesa-city-map.png)](/assets/mesa-city-map.png)
