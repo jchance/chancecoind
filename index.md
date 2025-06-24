@@ -3,6 +3,8 @@ title: Home
 layout: default
 ---
 
+# Welcome to ChanceCo Industries!
+
 {: .important-title }
 > Want to see these in game?
 >
