@@ -19,12 +19,8 @@ As a bonus, the ChanceX founder doesn't buy social media platforms and run them 
 
 ---
 
-[![](/assets/ss/chancex/chancex2_sm.webp)](/assets/ss/chancex/chancex2.webp)
-
-[![](/assets/ss/chancex/chancex1_sm.webp)](/assets/ss/chancex/chancex1.webp)
-
-[![](/assets/ss/chancex/chancex3_sm.webp)](/assets/ss/chancex/chancex3.webp)
-
-[![](/assets/ss/chancex/chancex4_sm.webp)](/assets/ss/chancex/chancex4.webp)
-
-[![](/assets/ss/chancex/chancex5_sm.webp)](/assets/ss/chancex/chancex5.webp)
+{% for image in site.static_files %}
+{% if image.path contains "/ss/chancex/" %}
+<a href="{{ image.path }}"><img src="{{ image.path }}" alt="image" /></a>
+{% endif %}
+{% endfor %}
