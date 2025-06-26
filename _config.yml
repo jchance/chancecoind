@@ -64,18 +64,18 @@ color_scheme: nil
 callouts_level: quiet # or loud
 callouts:
   highlight:
-    color: yellow
-  important:
-    title: Important
     color: blue
-  new:
-    title: New
-    color: green
-  note:
-    title: Note
+  info:
+    title: Info
     color: purple
+  success:
+    title: Success!
+    color: green
   warning:
-    title: Warning
+    title: Warning!
+    color: yellow
+  danger:
+    title: Danger!
     color: red
 
 # Google Analytics Tracking (optional)

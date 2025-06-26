@@ -5,7 +5,7 @@ layout: default
 
 # Welcome to ChanceCo Industries!
 
-{: .important-title }
+{: .highlight-title }
 > Want to see these in game?
 >
 > Connect to [c.nerd.nu](https://nerd.nu) and come say "Hi!" 
