@@ -6,6 +6,8 @@ layout: home
 # Mesa City
 > Another Fine ChanceCo Industries Community
 
+{% include warp.md warp="MesaCity" %}
+
 ## Overview
 
 Built in the badlands biome where most players don't care to build, Mesa City was created so I wouldn't fill up Spawn City and leave some plots for the other players :P
