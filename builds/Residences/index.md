@@ -7,5 +7,3 @@ layout: home
 > Various homes I've built around Creative.
 
 ---
-
-Still adding website content.

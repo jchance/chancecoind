@@ -1,6 +1,7 @@
 ---
 title: Spawn City
 layout: home
+nav_exclude: true
 ---
 
 # Spawn City
